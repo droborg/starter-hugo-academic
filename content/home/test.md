@@ -13,7 +13,7 @@ weight: 1
 title: Hello
 
 # Section subtitle
-subtitle:
+subtitle: 111
 
 # Section design
 design:
